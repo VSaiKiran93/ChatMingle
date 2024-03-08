@@ -1,2 +1,2 @@
 # WhisprNet
-A Chat Application developed in Python
+A Chat Application developed in Python.
